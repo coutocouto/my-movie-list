@@ -17,7 +17,7 @@ const NotFound = () => {
         <div className="flex flex-col items-center justify-center mt-60">
             <h1 className="font-bold text-blue-600 text-9xl">404</h1>
             <h6 className="text-5xl font-bold text-gray-600">
-                <span className="text-red-500">Oops!</span> Page not found!
+                <span className="text-red-500">Oops!</span> Page not found
             </h6>
             <p className="text-gray-500 mt-3">{" The page you're looking for dosen't exist."}</p>
             <Link href="/">
